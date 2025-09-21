@@ -18,4 +18,4 @@ Soy un desarrollador en formación apasionado por la programación y la construc
 
 <hr style="border:1px solid #ccc">
 
-![Imagen galactica](https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-atmosphere-real-galaxy-starry-banner-background-image_520258.jpg)
+![Imagen galactica]([https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-atmosphere-real-galaxy-starry-banner-background-image_520258.jpg](https://i.pinimg.com/1200x/73/d7/39/73d739ce3e41947b0d9ca63ca889248e.jpg))
