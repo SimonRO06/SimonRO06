@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Simón Rubiano
 
-### Acerca de mi
+<hr style="border:1px solid #ccc">
+
+### 👤 Acerca de mi
 
 Soy un desarrollador en formación apasionado por la programación y la construcción de proyectos prácticos. He aprendido las bases de Python, además de trabajar con HTML y CSS, lenguajes que disfruto usar para dar estilo y estructura a mis páginas web. También manejo JavaScript, el cual me permite añadir funcionalidad e interactividad a mis proyectos. Tengo conocimientos en Git y Git Flow para el control de versiones, así como en bases de datos con PostgreSQL y MySQL. Además, he trabajado con C#, .NET y Entity Framework, lo que me permite desarrollar aplicaciones más completas y robustas. Mi objetivo es seguir creciendo como desarrollador, aprendiendo nuevas tecnologías y aplicándolas en proyectos que reflejen mi evolución.
 
