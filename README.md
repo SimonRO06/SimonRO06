@@ -19,6 +19,3 @@ Soy un desarrollador en formación apasionado por la programación y la construc
 <hr style="border:1px solid #ccc">
 
 ![Imagen galactica](https://i.pinimg.com/1200x/73/d7/39/73d739ce3e41947b0d9ca63ca889248e.jpg)
-
-![Banner](https://via.placeholder.com/1000x200/000000/FFFFFF?text=Bienvenido+a+mi+perfil)
-
