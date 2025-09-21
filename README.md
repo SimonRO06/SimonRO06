@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Simón Rubiano
+# 👋 ¡Hola! Soy Simón Rubiano Ortiz
 
 ### 👤 Acerca de mi
 
