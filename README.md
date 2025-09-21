@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Simón Rubiano
+<img width="1469" height="980" alt="image" src="https://github.com/user-attachments/assets/02f1dc60-8690-4772-9258-d564856dba99" /># 👋 ¡Hola! Soy Simón Rubiano
 
 ### 👤 Acerca de mi
 
@@ -15,3 +15,7 @@ Soy un desarrollador en formación apasionado por la programación y la construc
 ### 🌐 Conéctate conmigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.rubiano.ortiz@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simon.rubiano06) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/siruor)  
+
+<hr style="border:1px solid #ccc">
+
+![Imagen galactica](https://static.vecteezy.com/system/resources/previews/008/420/223/non_2x/horizontal-space-background-with-abstract-shape-and-stars-web-design-space-exploring-illustration-of-galaxy-concept-of-web-banner-vector.jpg)
