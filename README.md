@@ -1,4 +1,4 @@
-<img width="1469" height="980" alt="image" src="https://github.com/user-attachments/assets/02f1dc60-8690-4772-9258-d564856dba99" /># 👋 ¡Hola! Soy Simón Rubiano
+# 👋 ¡Hola! Soy Simón Rubiano
 
 ### 👤 Acerca de mi
 
@@ -18,4 +18,4 @@ Soy un desarrollador en formación apasionado por la programación y la construc
 
 <hr style="border:1px solid #ccc">
 
-![Imagen galactica](https://static.vecteezy.com/system/resources/previews/008/420/223/non_2x/horizontal-space-background-with-abstract-shape-and-stars-web-design-space-exploring-illustration-of-galaxy-concept-of-web-banner-vector.jpg)
+![Imagen galactica](https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-atmosphere-real-galaxy-starry-banner-background-image_520258.jpg)
